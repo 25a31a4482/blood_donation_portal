@@ -40,7 +40,7 @@ blood_donation_portal/
 
 ## ⚙️ Installation & Setup
 
-git clone https://25a31a4482.github.io/blood_donation_portal/
+git clone http://localhost/blood_donation
 
 cd blood_donation_portal
 
@@ -78,4 +78,3 @@ This project is for educational purposes only.
 ## 👨‍💻 Author
 
 Name: M.Harshitha 
-GitHub: https://25a31a4482.github.io/blood_donation_portal/
